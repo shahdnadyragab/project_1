@@ -1,0 +1,151 @@
+.header{
+    width: 100%;
+    height: 60px;
+    background-color:lightpink;
+    position: fixed;
+    z-index: 1;
+}
+.head_img{
+    height: 60px;
+    width: 70px;
+    margin-left: 60px;
+}
+.ha{
+    text-decoration: none;
+}
+.lh{
+    display: inline-block;
+    margin-right: 30px;
+    font-size: 20px;
+    color: white;
+    margin-top: 5px;
+}
+.lh:hover{
+    color:black;
+}
+.head_ul{
+    float: right;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../images/6997083123406318668a198bac247261.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.overlay{
+    width: 100%;
+    height: 75vh;
+    background-color: black;
+    opacity: 0.4;
+    padding-top: 25vh;
+}
+.p1{
+    font-size: 80px;
+    text-align: center;
+    color: white;
+}
+.p2{
+    text-align: center;
+    font-size: 30px;
+}
+.line{
+    width: 700px;
+    border: 2px solid palevioletred;
+    margin-left: 380px;
+    margin-top: -20px;
+}
+.d1{
+    width: 250px;
+    height: 350px;
+    background-color:lightpink;
+    border-radius: 10px;
+    float: left;
+    margin-left: 180px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    outline: 2px solid lightpink;
+    outline-offset: 4px;
+}
+.parent{
+    overflow: auto;
+}
+.dimg{
+    width: 250px;
+}
+.p3{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.btn1{
+    margin-left: 90px;
+    width: 70px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: white;
+    color: lightpink;
+    border-color:lightgrey;
+    font-size: 20px;
+}
+.btn1:hover{
+    color: gray;
+}
+.line2{
+    width: 100%;
+    border: 2px solid palevioletred;
+}
+.data{
+    background-color: white;
+    width: 1500;
+    height: 600px;
+    margin-top: 70px;
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-top: 50px;
+    outline: 2px solid lightpink;
+    outline-offset: 4px;
+}
+.lb{
+    width: 1400px;
+    margin-bottom: 30px;
+    height: 30px;
+    border-radius: 10px;
+    border: 4px solid white;
+    background-color: lightpink;
+    color:darkslategrey;
+    font-size: 15px;
+}
+label{
+    font-size: 20px;
+}
+#sel{
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+.btn2{
+    margin-left: 650px;
+    margin-top: 100px;
+    height: 50px;
+    width: 90px;
+    border-radius: 8px;
+    border: 3px solid gray;
+    background-color:lightpink;
+    font-size: 15px;
+    color: white;
+}
+.btn2:hover{
+    color: gray;
+}
+body{
+    height: 400vh;
+}
+.pend{
+    text-align: center;
+    margin-top: 300px;
+    word-spacing: 20px;
+    letter-spacing: 5px;
+    text-decoration: underline;
+    font-size: 15px;
+    color:palevioletred;
+}
